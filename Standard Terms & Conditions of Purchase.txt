@@ -28,13 +28,13 @@ When any number of days is prescribed in these Conditions or an Order, same shal
 The expiration or termination of these Conditions shall not affect such of the provisions which expressly provide that they will operate after any such expiration or termination, or which of necessity must continue to have effect after such expiration or termination, notwithstanding that the clauses themselves do not expressly provide for this.
 The rule of interpretation that any ambiguity in these Conditions shall be interpreted against the Party responsible for the drafting or preparation hereof shall not apply.
 
-1. APPLICABLE CONTRACTUAL CONDITIONS
+2. APPLICABLE CONTRACTUAL CONDITIONS
 These Conditions, including any specific conditions contained in documents referred to herein, shall apply to all Orders placed with the Supplier by the Purchaser. The provisions of the Order and these Conditions shall form the only conditions between the Parties.
 Where any of these Conditions have been specifically excluded in the Order from application either in full or in part, or where other terms and conditions have been substituted for them in the Order, the terms and condition so excluded or substituted shall not apply.
 In the event of any conflict between the provisions of the Order and these Conditions, the provisions of the Order shall take precedence.
 The Supplier shall, within 3 (three) business days after receipt of an Order, acknowledge receipt thereof and shall notify the Purchaser should any provision of the Order which contradicts the Supplier’s Quotation be unacceptable to it. In the event that the Supplier fails to acknowledge receipt within the said period of 3 (three) days, or in the event of the Supplier commencing with the execution of the Order, the Supplier shall be deemed to have accepted such Order in its entirety. The Supplier is precluded from adding any further conditions to a placed Order and any such further conditions or amendments shall have no binding effect on the Purchaser and be deemed pro non scripto.
 
-2. REPRESENTATIONS
+3. REPRESENTATIONS
 The Supplier represents and warrants that:
 
 it has been duly incorporated, organized and/or established and validly exists under the laws of the jurisdiction of its incorporation and has the relevant constitutional approvals to manufacture and deliver the Goods in accordance with the terms of the Orders;
@@ -45,21 +45,21 @@ the use, copying or modification of the Goods shall not infringe any rights, inc
 in providing the Goods, it will comply with all applicable health and safety and environmental laws and regulations, and the Purchaser’s safety and environmental policies, guidelines, procedures and requirements, as they may be amended from time to time; and
 it shall provide the Goods in accordance with the description thereof in a proper, workmanlike and careful manner, with properly equipped materials and in accordance with that degree of skill, diligence, prudence and foresight which would reasonably be expected to be observed, in each case by a skilled, qualified and experienced international supplier of products and/or services engaged in carrying out activities the same as or similar to the Supplier’s obligations under these Terms under the same or similar circumstances.
 
-3. PRICES
+4. PRICES
 Prices shall be shown on the face of the Order and shall be fixed (i.e. not subject to any escalation or price increase), unless otherwise specified in the Order. Prices exclude value-added tax (VAT), which shall be shown as a separate line item on invoices. All other taxes, duties and charges shall be for the account of the Supplier.
 Should the Order be issued on a “Price to be Advised”, “Estimated Price”, “Price subject to Adjustment” or any other similar basis, it shall be a condition of the Order that the Purchaser shall be advised of details of the proposed price prior to the Supplier tendering its invoice. The Purchaser may demand, before payment is made, that the price computation be supported by documentary evidence.
 
-4. PAYMENT
+5. PAYMENT
 All payments shall, unless otherwise agreed to between the Parties in writing beforehand and subject to the provisions of clause 2, be made to the Supplier by means of electronic funds transfer within 30 (thirty) days after receipt of Supplier’s month end statement and the supporting documents detailed in the Order.
 The Purchaser shall be entitled to set off any amount owing to the Purchaser by the Supplier against any amount owed to the Supplier by the Purchaser. Should the amount which is owed to the Purchaser not have been determined or liquidated, the Purchaser may suspend all further payments to the Supplier and estimate the amount that is owing and set-off the estimated amount, subject to adjustment and settlement once the amount has been determined or liquidated by way of arbitration or agreement.
 
-5. QUALITY, HEALTH, SAFETY AND ENVIRONMENTAL REQUIREMENTS
+6. QUALITY, HEALTH, SAFETY AND ENVIRONMENTAL REQUIREMENTS
 Depending on the scope of supply, the Supplier may be required to maintain its management system in accordance with the requirements specified in requisite standards, namely ISO 9001 and/or AS-9100, (or a similar standard) as a minimum, as may be applicable.
 The Supplier shall ensure that the Goods comply with agreed quality assurance and other applicable requirements as specified in the Order.
 In addition to the quality related requirements specified above, the Supplier may be required to comply with the ISO 14001 and/or 18001 (or similar) standards pertaining to Environmental and the Health and Safety Standards respectively.
 Whilst it is a pre-requisite to comply with the Occupational, Health and Safety Act, 1993 as amended, and other relevant pieces of legislation, the Purchaser must familiarise itself with all other product related legislative requirements, whether stipulated in the Order or not.
 
-6. ACCEPTANCE
+7. ACCEPTANCE
 Where applicable, the Goods shall be considered as accepted by the Purchaser upon signature by the Purchaser’s authorised representative of an Acceptance Certificate.
 Acceptance of the Goods is subject to:
 Successful inspection and/or testing of the Goods by the Purchaser;
@@ -74,7 +74,7 @@ The cost of transport, removal, re‑inspection, rework, repair, replacement or 
 Acceptance of the Goods may, at Purchaser’s discretion, take place at the Supplier’s premises prior to delivery.
 Acceptance by the Purchaser of any Goods shall not prejudice the Purchaser’s rights in terms hereof, inter alia, to claim under the warranty provisions.
 
-7. DELIVERY
+8. DELIVERY
 The Supplier shall take all measures necessary to perform proper transportation of the Goods by all appropriate means and using all appropriate equipment and accessories, with the assistance of competent and solvent agents or subcontractors where necessary. The Supplier shall organise transportation of the Goods to the place of delivery in a manner designed to avoid damage to the Goods, and so as to avoid difficulties in unloading the Goods at the place of delivery.
 The mode and point of delivery shall be as specified in the Order (Incoterms 2010, where applicable). If no mode or point of delivery is specified in the Order, then delivery of the Goods shall be delivery into the Purchaser’s store. Ownership and risk shall pass to the Purchaser upon delivery. The Supplier must insure the Goods against loss, accidents or damage until risk passes to the Purchaser and the Supplier must maintain adequate insurance in respect of all other risks that exist.
 The Supplier shall complete and deliver the Goods strictly in accordance with the delivery schedule set out in the Order. These dates are fixed, unless otherwise specified in the Order, and time shall be regarded as of the essence.
@@ -84,16 +84,16 @@ The Purchaser reserves the right to cancel an Order in respect of any Goods not 
 The Purchaser may from time to time change the delivery schedule to be compatible with changes in the Purchaser’s production schedule; provided that any acceleration of delivery will be made with due regard to the Supplier’s lead-time requirements.
 Where so required, the Supplier shall deliver to the Purchaser, at such times as may be agreed but at the latest upon delivery of the Goods, all technical and other documentation relating to the Goods, such as operating and maintenance manuals, training manuals, drawings, technical data sheets, product safety sheets, inspection certificates, certificates of conformity, certificates of origin, manufacturer certifications, preference certifications and any other supporting documentation. If not otherwise specified in the Order, the delivery of software or of Goods including software will include, for maintenance and/or adaptability reasons, all source and object codes relating to it. Such technical and other documentation remain the property of the Purchaser and shall be considered as integral part of the Goods.
 
-8. LIQUIDATED DAMAGES
+9. LIQUIDATED DAMAGES
 In the event that the Supplier fails to deliver the Goods in accordance with the agreed delivery schedule and such failure is not due to Force Majeure, the Purchaser may, without prejudice to any other rights it may have in terms of these Conditions or in law, recover from the Supplier as agreed liquidated and pre-estimated damages, a sum equal to 0,5 % (zero comma five percent) of the value of the Goods so delayed for each day (including Saturdays, Sundays and public holidays) of the delay up to a maximum of 20 % (twenty percent) of the value of the Order.
 In the event that the delay in delivery of a part of the Goods prevents the use of other parts of the Goods, the liquidated damages shall also be recovered in respect of the Price of the Goods supplied but which cannot be used.
 The Supplier warrants that the amount of liquidated damages stated in the preceding clause has been considered by it and represents a genuine pre-estimate of the damage to be suffered by the Purchaser in the event of late delivery of the Goods.
 The Purchaser may deduct the amount of liquidated damages calculated pursuant to this clause from any payment due to the Supplier.
 
-9. DRAWINGS, SPECIFICATIONS AND TECHNICAL INFORMATION
+10. DRAWINGS, SPECIFICATIONS AND TECHNICAL INFORMATION
 Drawings, data, designs and other technical data supplied by the Purchaser shall remain the Purchaser’s property and shall be held in confidence by the Supplier. Such information shall only be used in the execution of the Order and shall not be reproduced or disclosed to others by the Supplier without the prior written approval of the Purchaser. All the aforesaid shall be returned to the Purchaser upon completion of the Order or upon demand.
 
-10. MODIFICATIONS
+11. MODIFICATIONS
 The Purchaser may at any time, on written notice, request changes to an Order and/or modification of the Goods without invalidating the Order.
 In the event of the Purchaser requiring the Supplier to make such variations:
 such requests must be addressed to the Supplier in writing;
@@ -103,7 +103,7 @@ in the event of the Supplier agreeing to such variations, the Supplier must with
 the Purchaser shall within 14 (fourteen) days after receipt of such quotation accept or reject same.
 In the event of an amendment being accepted, the Purchaser shall issue an Order amendment containing the amended costs and/or delivery schedule and/or specifications, without derogating from anything which has already been performed or supplied in terms of the Order.
 
-11. WARRANTY
+12. WARRANTY
 WHERE THE SUPPLIER IS THE MANUFACTURER
 Goods shall be of the agreed quality and description and in accordance with the detailed specifications set out in the Order, or as stipulated in other agreed documentation referred to in the Order.
 The Supplier warrants that the Goods supplied shall:
@@ -124,9 +124,9 @@ This warranty shall extend to the Purchaser’s customers.
 WHERE THE SUPPLIER IS THE DISTRIBUTOR
 The Supplier shall supply the full flow through warranty of the OCM/OEM to the Purchaser and its customer/s.
 
-12. INTELLECTUAL PROPERTY RIGHTS
+13. INTELLECTUAL PROPERTY RIGHTS
 The rights in all Intellectual Property that is already vested in a Party prior to the award of an Order (“Background Intellectual Property”) shall at all times remain vested in such Party. The Supplier hereby grants to the Purchaser a non-exclusive, perpetual and royalty free licence and right to use and exploit its Background Intellectual Property for the integration, operation, upgrade and support of the Goods.
-The Supplier agrees that it shall not acquire any rights in or use any Background Intellectual Property of the Purchaser or any of its Affiliates except as expressly authorised by the Purchaser, and then solely for the performance of its obligation under the Order.
+The Supplier agrees that it shall not acquire any rights in or use any Background Intellectual Property of the Purchaser or any of its Affiliates, except as expressly authorised by the Purchaser, and then solely for the performance of its obligation under the Order.
 Should the Supplier as part of the performance of an Order significantly modify, alter, amend and/or enhance its Background Intellectual Property, for example a manufacturing process, the significantly modified, altered, amended and/or enhanced Intellectual Property shall be owned by the Purchaser or its customer. To the extent that any such modified, altered, amended and/or enhanced Intellectual Property rights are owned by the Supplier, by operation of law or for any other reason, the Supplier shall assign such Intellectual Property rights in writing to the Purchaser or its customer at no cost or remuneration. “Significantly modify, alter, amend and/or enhance Intellectual Property” means a modification, alteration, amendment and/or enhancement of the Supplier’s Background Intellectual Property, to the extent where such Background Intellectual Property provides the basis from which Intellectual Property is created to produce, manufacture, support or suit the Goods to be delivered by the Supplier.
 The rights in all Intellectual Property created by the Supplier during and as a result of the performance of an Order (“Foreground Intellectual Property”), as well as the rights in all Intellectual Property which may in future arise from any modifications, amendments, enhancements and/or improvements thereto requested by the Purchaser, shall become vested in the Purchaser or its customer.
 The Supplier shall indemnify, defend and hold the Purchaser or its customer harmless from any liability arising out of any third-party claim that Goods manufactured by the Supplier and sold to the Purchaser infringe any patent, including any damages and costs awarded against the Purchaser or its customer in a judgment of a court of competent jurisdiction. As a condition to the Supplier’s obligation to indemnify the Purchaser/its customer, the Purchaser shall:
@@ -140,7 +140,7 @@ modify the Goods to the extent necessary to cure any problems of infringement; o
 refund the purchase price paid for the Goods that are claimed to be infringing.
 The Purchaser shall not be liable for the payment of royalties to the third party for such third party’s Intellectual Property.
 
-13. CONFIDENTIALITY
+14. CONFIDENTIALITY
 In the course of the performance of an Order, it is likely that the Parties shall exchange information of a confidential nature, including but not limited to technical, financial or commercial information or data, programmes, specifications, drawings, designs, computer software, Intellectual Property, know‑how, client lists and costs or prices (“Confidential Information”).
 The Party receiving Confidential Information (“Receiving Party”) shall, for the duration of an Order and for a period of 5 (five) years thereafter:-
 treat as strictly confidential and secret any and all Confidential Information given or made known to it during the Order period, by using the same degree of precaution and safeguards as it uses to protect its own proprietary information of like importance, but in no case with any less than reasonable care;
@@ -154,7 +154,7 @@ information which the Receiving Party can show was in its possession at the time
 information rightfully acquired from a third party who did not obtain it under pledge of secrecy to either of the Parties.
 Nothing herein shall be construed as granting to the receiving Party any proprietary rights or any licence in respect of the disclosing Party’s Confidential Information.
 
-14. BREACH AND TERMINATION
+15. BREACH AND TERMINATION
 In the event of a breach of any provision of an Order (including these Conditions) by a Party (“Defaulting Party”), the other Party (“Non-Defaulting Party”) shall give the Defaulting Party written notice of such breach and the Defaulting Party shall have 14 (fourteen) days from the date of the notice (or such longer period as the Non-Defaulting Party may agree to in writing) to remedy the breach.
 Should the Defaulting Party fail to remedy the breach within such period the Non-Defaulting Party shall have the right, without prejudice to any other rights and remedies which it may have in terms hereof or in law to:
 
@@ -168,14 +168,14 @@ The Supplier shall inform the Purchaser without delay if any of the aforemention
 The Purchaser shall have the right to terminate an Order forthwith in the event of its customer terminates the corresponding purchase order placed on it, for whatever reason. Provided that the said purchase order is not terminated due to the default of the Supplier, the Purchaser shall pay to the Supplier, as full and final compensation, all amounts due and not previously paid but the costs for the Goods delivered by the Supplier up to the date of termination. The Purchaser shall also pay to the Supplier its reasonable costs which the Supplier incurred as a result of the early termination of the Order.
 At no time, including upon any termination, shall the Purchaser have any liability to the Supplier for any loss of profit, loss of revenue, loss of contract, loss of opportunity, loss of goodwill, loss of production or down time costs or related losses.
 
-15. INDEMNITY
+16. INDEMNITY
 The Supplier shall hold harmless and fully indemnify and keep indemnified the Purchaser and its respective directors, managers, officers, employees, agents and contractors (“Indemnified Persons”) from and against:
 any claim, allegations or demands made against the Purchaser or the Supplier as a result of the Purchaser’s receipt, use or otherwise of any item of the Goods, where such claim, allegation or demand results from the breach by the Supplier of any of its obligations in terms hereof;
 any and all cost, loss, expense, liability, claim or damage of whatsoever nature (including any liability for legal costs and expenses, but excluding any indirect, special and/or consequential damage, loss, costs, expense, claim and/or liability) which the Indemnified Persons incur or suffers as a consequence of, or would not have arisen but for: (i) any breach by the Supplier of the Order or any applicable laws; or (ii) any default by the Supplier in the due and punctual performance of any of its obligations under the Order, including, without limitation, any negligent act or omission or default of the Supplier or its agents or subcontractors or any breach or tortious acts; or (iii) any wilful or negligent act or omission by the Supplier or its agents or subcontractors in respect of any matter arising from the performance of an Order.
 The Supplier shall be solely responsible for securing and maintaining valid policies of insurance in respect of all insurances required by all applicable laws and, without limiting the generality of the foregoing, the Supplier shall secure and maintain valid policies of insurance in respect of third party liability, public liability, product liability, automobile liability (if applicable), and workmen’s compensation. The Supplier shall ensure that adequate coverage is provided by the insurance obtained and that all such insurances shall contain provisions that insurance companies shall have no right of subrogation against the Indemnified Persons.  The Purchaser shall be entitled from time to time upon demand to request copies of or inspect the Supplier’s policies of insurance and related insurance certificates to determine whether the Supplier’s policies of insurance are in full force and effect.
 Notwithstanding anything contained in this Contract, the Supplier shall be liable to the Purchaser for all damage and/or loss which may be sustained by the Purchaser or by any third party as a result of any breach of the warranties and undertakings given by the Supplier in terms of an Order, or as a result of any negligent acts, omissions or wilful misconduct in the performance by the Supplier, its employees, agents or contractors of its obligations in terms of an Order.
 
-16. FORCE MAJEURE
+17. FORCE MAJEURE
 The Supplier shall not be responsible for any delay in the delivery of the Goods as a result of causes beyond its reasonable control, including but not limited to war, revolution, invasion, sabotage, epidemic, quarantine, strikes, lock-out, earthquakes, hurricanes, fire, flood or accidents to machinery.
 The Supplier shall inform the Purchaser, in writing, of the causes of any such delay within 3 (three) days of the commencement of the event of Force Majeure and indicate the estimated time to remove the cause of the delay. If the Supplier fails to notify Purchaser as aforesaid the Supplier shall not be entitled to an extension of the agreed delivery date.
 The Supplier shall do his utmost to avoid or remove the Force Majeure situation and shall continue performance in accordance with the Order on those parts of the Order not affected by Force Majeure.
@@ -183,7 +183,7 @@ The Supplier shall resume work on any delayed portion of the Order as soon as th
 In the event of a force majeure situation the relevant performance and completion times shall be adjusted to allow for the effects of the force majeure.
 Should the delay due to force majeure be in excess of 90 (ninety) days, either Party shall have the right to terminate such Order, without any right of recourse against each other, save in respect of Goods already delivered.
 
-17. SETTLING OF DISPUTES
+18. SETTLING OF DISPUTES
 If any dispute arises out of or in connection with an Order (including these Conditions), or related thereto, whether directly or indirectly, the Parties must refer the dispute for resolution firstly by way of negotiation and in the event of that failing, by way of mediation and in the event of that failing, by way of arbitration. The reference to negotiation and mediation is a precondition to the Parties having the dispute resolved by arbitration.
 A dispute within the meaning of this clause exists once one Party notifies the other in writing of the nature of the dispute and requires the resolution of the dispute in terms of this clause.
 Within 10 (ten) business days following such notification, the Parties shall seek an amicable resolution to such dispute by referring such dispute to designated representatives of each of the Parties for their negotiation and resolution of the dispute. The representatives shall be authorised to resolve the dispute.
@@ -195,7 +195,7 @@ The decision of the arbitrator shall be final and binding on the Parties.
 The provisions of this clause 21 shall not preclude any Party from access to an appropriate court of law for interim relief in respect of urgent matters by way of an interdict pending finalisation of the dispute resolution process for which purpose the Parties irrevocably submit to the jurisdiction of a division of the High Court of the Republic of South Africa.
 This clause is a separate, divisible agreement from the rest of an Order (including these Conditions) and shall remain in effect even if an Order terminates, is nullified or cancelled for whatsoever reason or cause.
 
-18. COUNTERFEIT AND PROHIBITED GOODS
+19. COUNTERFEIT AND PROHIBITED GOODS
 The Supplier represents and warrants that it has policies and procedures in place consistent with acceptable industry standards, for the avoidance, mitigation, detection and disposition of Counterfeit Goods to ensure that none of the Goods furnished under an Order are or contain Suspect Counterfeit Goods or Counterfeit Goods.
 The Supplier warrants that only new, unused, authentic, genuine and legitimate items shall form part of the Goods supplied to the Purchaser.
 The Supplier warrants that it shall only purchase or source items directly from OCM’s, OCM authorised (e.g. Franchised) Distributors or aftermarket manufacturers. The use, purchase or sourcing of items from non OCM authorised Independent Distributors or brokers is not permitted unless first approved in writing by the Purchaser. The Supplier must present compelling support for its request to use such non OCM authorised suppliers for the Purchaser’s approval (including but not limited to OCM documentation that authenticates supply chain traceability of the items to the OCM) and include in its request all necessary actions that it shall take to ensure those items thus procured are new, unused, authentic, genuine and legitimate items.
@@ -219,43 +219,43 @@ The Supplier shall flow down these requirements contained in this clause 26 to t
 The Supplier shall inform its employees, contractors, workers and any other third parties (and shall procure that they inform their employees, contractors, workers and other third parties) engaged in the performance of work under an Order in writing prior to performance of work that there is a risk of criminal penalties associated with any falsification, concealment, fraud or misrepresentation in connection with work performed or Goods provided under an Order.
 The Supplier shall notify the Purchaser as soon as it becomes aware of any Counterfeit Goods or Suspect Counterfeit Goods which arise in relation to any Goods. Suppliers eligible for utilisation of the Government-Industry Data Exchange Program (“GIDEP”) shall utilise the GIDEP process to alert the industry to Counterfeit Goods or Suspect Counterfeit Goods.
 
-19. APPLICABLE LAW
+20. APPLICABLE LAW
 All Orders shall be governed by and be construed according to the laws of the Republic of South Africa.
 
-20. AMENDMENTS
+21. AMENDMENTS
 The Order (including these Conditions) constitutes the entire and only agreement between the Parties thereto with respect to the subject matter contained in an Order and no amendment, variation or consensual termination of any terms or conditions of an Order shall be of any force and effect unless reduced to writing and signed by both Parties thereto.
 
-21. CESSION
+22. CESSION
 The Supplier shall not be entitled to cede, delegate, assign or in any other manner dispose of any of its rights or obligations in terms of an Order, unless the prior written consent of the Purchaser is obtained.
 
-22. SUBCONTRACTING
+23. SUBCONTRACTING
 The Purchaser shall not subcontract any part of an Order without the prior written approval of the Supplier, and such approval, if given, shall not release the Purchaser from its obligations under such Order.
 The Purchaser shall ensure that these Conditions are incorporated into subcontracts mutatis mutandis entered into by the Purchaser and that the subcontractors are bound thereby.
 
-23. SEVERABILITY
+24. SEVERABILITY
 If any one or more of the provisions of an Order (including these Conditions) should be held to be invalid, illegal or unenforceable by any competent authority, the validity and enforceability of all the other provisions thereof shall not be affected thereby.
 Without detracting from the generality of the aforegoing, the Parties agree to negotiate with each other in good faith to arrive at an amendment to the Order which would restore the Parties, as far as possible to the position contemplated by the Parties at the time the Order was entered into and which is legal and enforceable.
 
-24. RELAXATION
+25. RELAXATION
 No latitude, extension of time or other indulgence which may be given or allowed by a Party to the other Party in respect of the performance of any obligation, and no delay or leniency in the enforcement of any right of a Party, and no single or partial exercise of any right by any Party under an Order shall in any circumstances be construed to be an implied consent or election by such Party or operate as a waiver or a novation of or otherwise affect any of the Party’s rights in terms of or arising from an Order or estop or preclude any such Party from enforcing at any time and without notice, strict and punctual compliance with each and every provision or term hereof.
 
-25. ADDRESSES AND NOTICES
+26. ADDRESSES AND NOTICES
 The Parties choose as their domicilia citandi et executandi the addresses set out in the Order and agree that all notices and processes arising out of or in connection with an Order may be served on them at that address.
 The Parties shall be entitled to change their respective domicilium citandi et executandi to such other address in the Republic of South Africa as which the Party concerned may notify the other in writing; provided that such address shall not be a post office box or poste restante.
 Any notice given by the one Party to the other shall be in writing and shall, until the contrary is proved, be deemed to have been received by the addressee 7 (seven) days after it has been dispatched by pre-paid registered post to the addressee, or on the same day on which it is delivered by hand to the addressee’s domicilium citandi et executandi, or on the following business day after it has been faxed.
 
-26. CORRUPT PRACTICES
+27. CORRUPT PRACTICES
 The Parties represent and warrant that they have not and will not, in the course of obtaining or performing any Order, directly or indirectly, unduly offer, pay, give, promise to pay, or authorize the giving of, any money or thing of value to any employee or official or to any person, while knowing that all or a portion of such money or thing of value will be offered, paid, given or promised, directly or indirectly, to an employee or official or other person, for the purpose of influencing any act or decision of such employee or official or other person, including a decision to fail to perform his/her lawful duty, or inducing such employee, official or other person to use his/her influence with any Government to affect or influence any act or decision of such Government to obtain or retain business or to gain an improper advantage. The Parties acknowledge that no employee has any authority to give any direction, written or oral, in connection with the making of any payment or commitment, to any third party in contravention of the foregoing.
 A Party may summarily terminate an Order and claim damages occasioned by such termination, if it at any time reasonably determines that corrupt and/or fraudulent practices were engaged in by the employees, agents or representatives of the other Party during the procurement or the execution of an Order.
 
-27. CONFLICTING INTERESTS
+28. CONFLICTING INTERESTS
 Any potential conflict, such as employees of the Purchaser having an interest, whether directly or through family members, in the Supplier’s organisation; or interests between the Supplier and the Purchaser, shall be declared in writing by the Purchaser, if known to the Purchaser, prior to accepting an Order and the Purchaser shall promptly advise the Supplier of any conflict or potential conflict which arises during the execution of the Order, whenever it comes to the knowledge of the Purchaser.
 
-28. CODE OF CONDUCT
+29. CODE OF CONDUCT
 The Supplier undertakes to comply with the respective statutory regulations concerning the handling of employees, environmental protection and labour safety and to work towards reducing detrimental effects on humans and the environment during its activities. For this purpose, the Supplier shall set up and further develop within the framework of its possibilities a management system according to ISO 14001 or similar internal processes and standards. The Supplier shall further comply with the principles of the Global Compact Initiative of the UN. These essentially relate to the protection of the international human rights, the right to collective wage agreement negotiations, the abolishment of forced labour and child labour, the removal of discrimination with the recruitment and employment, the responsibility for the environment and the prevention of corruption. Further information relating to the Global Compact Initiative of the UN is available under www.unglobalcompact.org.
 
-29. GOOD FAITH
+30. GOOD FAITH
 In the execution of an Order the Parties undertake to observe the utmost good faith and they warrant that in their dealings with each other that they shall neither do anything nor refrain from doing anything which might prejudice or detract from the rights, assets or interests of the other of them.
 
-30. VALIDITY OF QUOTATION
+31. VALIDITY OF QUOTATION
 Unless otherwise stated in the Quotation, the validity of all Quotations shall be 60 (sixty) days
